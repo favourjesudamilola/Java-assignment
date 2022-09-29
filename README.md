@@ -13,8 +13,8 @@ QUESTION 1: SQL DATABASES
 
 QUESTION 2: EXAAMPLES OF NoSQL DATABASE
 
-1. Elasticsearch
-2. Firebase
+1. Hbase
+2. bigTable
 3. Neo4j
 4. OrientDB
 5. Couchbase
@@ -26,4 +26,6 @@ Question 3: DIFFERENCE BETWEEEN SQL AND NoSQL DATABASE
 2. SQL database are better for multi-row transactions while NoSQL is better for unstructured data
 3. SQL databases are table-oriented databases while NoSQL document-oriented have key-value pairs
 4. SQL is used to store structured data while NoSQL is used to store structured and unstructured data.
-5. 
+5. SQL databases are a good for the Complex queries in an intensive environment, and NoSQL databases are not an right for complex queries.
+6. SQL  NoSQL have flexible data models
+7. SQL are called relational database while NoSQL are non-relational database
