@@ -29,3 +29,16 @@ Question 3: DIFFERENCE BETWEEEN SQL AND NoSQL DATABASE
 5. SQL databases are a good for the Complex queries in an intensive environment, and NoSQL databases are not an right for complex queries.
 6. SQL  NoSQL have flexible data models
 7. SQL are called relational database while NoSQL are non-relational database
+
+
+<!-- STATUS CODE -->
+
+Question1: why do we need status code
+
+status code is an HTTP message a website's server sends to the browser to indicate whether or not that request can be fulfilled
+
+5 reasons why we need a status code
+
+1. Staus code serves as an indicator to show whether an HTTP request is successful
+2. status codes are used to pinpoint specific problems with the webpage
+3. it is essential for SEO
